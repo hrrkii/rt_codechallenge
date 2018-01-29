@@ -2,6 +2,7 @@
   "name": "codechallenge-calendar",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "http://hrrkii.github.io/rt_codechallenge",
   "dependencies": {
     "moment": "^2.20.1",
     "react": "^16.2.0",
