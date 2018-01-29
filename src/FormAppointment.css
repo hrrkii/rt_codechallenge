@@ -1,0 +1,17 @@
+
+.FormAppointment .errors {
+    color: red;
+    font-style: italic;
+  }
+
+  .FormAppointment .warning {
+    color: green;
+    font-size: .8em;
+  }
+  
+  .FormAppointment label {
+    width: 165px;
+    text-align: right;
+    display: inline-block;
+    padding-right: 8px;
+  }
